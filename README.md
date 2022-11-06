@@ -1,4 +1,4 @@
-Authors: Shane Calla
+Authors: Shane Calla, Seattle Bourassa
 
 # BBBB-BlackBoardBookmarkingBar-B-Cubed-Bar-
 
